@@ -35,14 +35,14 @@ const books = [
     stock: 2
   },
 	{
-    id: 5,
+    id: 6,
     title: "ammu and friends",
     author: "Héctor ",
     price: 290,
     stock: 20
   },
 	{
-    id: 5,
+    id: 7,
     title: "too good to be too true",
     author: "prajakatha koli",
     price: 250,
@@ -54,18 +54,25 @@ const books = [
     stock: 2
   },
         {
-    id: 6,
+    id: 8,
     title: "ammu and friends",
     author: "Héctor ",
     price: 290,
     stock: 20
   },
         {
-    id: 7,
+    id: 9,
     title: "too good to be too true",
     author: "prajakatha koli",
     price: 250,
 	},
+	 {
+    id: 10,
+    title: "harry potter",
+    author: "howing",
+    price: 1250,
+        },
+
 
 
 ];
