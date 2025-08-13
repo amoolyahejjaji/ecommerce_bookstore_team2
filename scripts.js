@@ -72,6 +72,12 @@ const books = [
     author: "howing",
     price: 1250,
         },
+ {
+    id: 10,
+    title: "think and grow big",
+    author: "hill",
+    price: 256,
+        },
 
 
 
