@@ -47,7 +47,25 @@ const books = [
     author: "prajakatha koli",
     price: 250,
     stock: 79
-  }
+  },
+	    title: "Ikigai",
+    author: "Héctor García",
+    price: 220,
+    stock: 2
+  },
+        {
+    id: 6,
+    title: "ammu and friends",
+    author: "Héctor ",
+    price: 290,
+    stock: 20
+  },
+        {
+    id: 7,
+    title: "too good to be too true",
+    author: "prajakatha koli",
+    price: 250,
+	},
 
 
 ];
