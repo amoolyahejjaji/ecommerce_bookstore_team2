@@ -33,5 +33,13 @@ const books = [
     author: "Héctor García",
     price: 220,
     stock: 2
-  }
+  },
+	{
+    id: 5,
+    title: "ammu and friends",
+    author: "Héctor ",
+    price: 290,
+    stock: 20
+  },
+
 ];
