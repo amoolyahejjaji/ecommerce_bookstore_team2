@@ -27,5 +27,11 @@ const books = [
     price: 280,
     stock: 6
   },
-  
+  {
+    id: 5,
+    title: "Ikigai",
+    author: "Héctor García",
+    price: 220,
+    stock: 2
+  }
 ];
