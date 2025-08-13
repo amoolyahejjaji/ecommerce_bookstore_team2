@@ -13,5 +13,11 @@ const books = [
     price: 300,
     stock: 5
   },
-  
+  {
+    id: 3,
+    title: "Atomic Habits",
+    author: "James Clear",
+    price:350,
+    stock:7
+  },
 ];
