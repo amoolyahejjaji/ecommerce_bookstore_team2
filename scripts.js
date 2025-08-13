@@ -78,6 +78,12 @@ const books = [
     author: "hill",
     price: 256,
         },
+ {
+    id: 9,
+    title: "too good to be too true",
+    author: "prajakatha koli",
+    price: 250,
+        },
 
 
 
