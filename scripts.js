@@ -1032,3 +1032,10 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
+ {
+    id: 9,
+    title: "too good to be too true",
+    author: "prajakatha koli",
+    price: 250,
+        },
+
