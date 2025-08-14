@@ -1,3 +1,4 @@
+
 const books = [
   {
     id: 1,
@@ -191,7 +192,7 @@ const books = [
 
 
 ];
-scripts.js [unix] (20:44 13/08/2025)                                       171,0-1 Bot
+scripts.js [unix] (20:44 13/08/2025)                                       
 "scripts.js" [unix] 174L, 2913B
  {
     id: 9,
@@ -655,7 +656,7 @@ scripts.js [unix] (20:44 13/08/2025)                                       171,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                      
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -680,7 +681,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                   
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -705,7 +706,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                      
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -730,7 +731,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                     
 "scripts.js" [unix] 639L, 10212B
 
 
@@ -758,7 +759,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                       
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -783,7 +784,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                      
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -808,7 +809,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                       
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -833,7 +834,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                    
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -876,7 +877,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                      
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -901,7 +902,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                    
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -926,7 +927,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                       
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -951,7 +952,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                     
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -976,7 +977,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                     
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -1001,7 +1002,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                       
 "scripts.js" [unix] 639L, 10212B
         },
 
@@ -1026,7 +1027,7 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
 
 
 ];
-scripts.js [unix] (21:14 13/08/2025)                                       635,0-1 Bot
+scripts.js [unix] (21:14 13/08/2025)                                     
 "scripts.js" [unix] 639L, 10212B
 
 
@@ -1039,3 +1040,64 @@ scripts.js [unix] (21:14 13/08/2025)                                       635,0
     price: 250,
         },
 
+
+console.log("Books catalog loaded.");
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+div.querySelector("button").addEventListener("click", ()  {
+  alert(`"${book.title}" has been added to the cart!`);
+});
+
+console.log("books caalog loaded.");
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:pink;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:yellow;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:neon;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
+if (book.stock < 5) {
+  div.innerHTML  `<p style="color:red;">Only few left!</p>`;
+}
