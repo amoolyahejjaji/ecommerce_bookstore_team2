@@ -1,2 +1,1 @@
-console.log("books caalog loaded.");
-
+console.log("Books catalog loaded.");
