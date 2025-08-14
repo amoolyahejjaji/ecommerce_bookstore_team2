@@ -8,3 +8,6 @@ if (book.stock < 5) {
 if (book.stock < 5) {
   div.innerHTML += `<p style="color:red;">Only few left!</p>`;
 }
+if (book.stock < 5) {
+  div.innerHTML += `<p style="color:red;">Only few left!</p>`;
+}
